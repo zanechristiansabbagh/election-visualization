@@ -1,0 +1,52 @@
+United States,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Alabama,D,D,D,D,D,D,D,D,D,D,D,D,D,D,SR,D,D,I,R,AI,R,D,R,R,R,R,R,R,R,R,R,R,R
+Alaska,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,D,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+Arizona,,,,,,D,D,R,R,R,D,D,D,D,D,R,R,R,R,R,R,R,R,R,R,R,D,R,R,R,R,R,D
+Arkansas,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,AI,R,D,R,R,R,D,D,R,R,R,R,R,R
+California,D,R,R,R,R,BM,D,R,R,R,D,D,D,D,D,R,R,R,D,R,R,R,R,R,R,D,D,D,D,D,D,D,D
+Colorado,PO,D,D,R,D,D,D,R,R,R,D,D,R,R,D,R,R,R,D,R,R,R,R,R,R,D,R,R,R,D,D,D,D
+Connecticut,D,R,R,R,R,D,R,R,R,R,R,D,D,D,R,R,R,D,D,D,R,R,R,R,R,D,D,D,D,D,D,D,D
+Delaware,D,R,R,R,R,D,R,R,R,R,R,D,D,D,R,R,R,D,D,R,R,D,R,R,R,D,D,D,D,D,D,D,D
+District of Columbia,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D
+Florida,D,D,D,D,D,D,D,D,D,R,D,D,D,D,D,R,R,R,D,R,R,D,R,R,R,R,D,R,R,D,D,R,R
+Georgia,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,R,AI,R,D,D,R,R,D,R,R,R,R,R,R,D
+Hawaii,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,D,D,D,R,D,D,R,D,D,D,D,D,D,D,D,D
+Idaho,PO,D,D,R,R,D,D,R,R,R,D,D,D,D,D,R,R,R,D,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+Illinois,D,R,R,R,R,D,R,R,R,R,D,D,D,D,D,R,R,D,D,R,R,R,R,R,R,D,D,D,D,D,D,D,D
+Indiana,D,R,R,R,R,D,R,R,R,R,D,D,R,R,R,R,R,R,D,R,R,R,R,R,R,R,R,R,R,D,R,R,R
+Iowa,R,R,R,R,R,D,R,R,R,R,D,D,R,R,D,R,R,R,D,R,R,R,R,R,D,D,D,D,R,D,D,R,R
+Kansas,PO,D,R,R,R,D,D,R,R,R,D,D,R,R,R,R,R,R,D,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+Kentucky,D,R,D,D,D,D,D,D,R,R,D,D,D,D,D,D,R,R,D,R,R,D,R,R,R,D,D,R,R,R,R,R,R
+Louisiana,D,D,D,D,D,D,D,D,D,D,D,D,D,D,SR,D,R,D,R,AI,R,D,R,R,R,D,D,R,R,R,R,R,R
+Maine,R,R,R,R,R,D,R,R,R,R,R,R,R,R,R,R,R,R,D,D,R,R,R,R,R,D,D,D,D,D,D,D,D
+Maryland,D,R,R,D,D,D,D,R,R,R,D,D,D,D,R,R,R,D,D,D,R,D,D,R,R,D,D,D,D,D,D,D,D
+Massachusetts,R,R,R,R,R,D,R,R,R,D,D,D,D,D,D,R,R,D,D,D,D,D,R,R,D,D,D,D,D,D,D,D,D
+Michigan,R,R,R,R,R,BM,R,R,R,R,D,D,R,D,R,R,R,D,D,D,R,R,R,R,R,D,D,D,D,D,D,R,D
+Minnesota,R,R,R,R,R,BM,R,R,R,R,D,D,D,D,D,R,R,D,D,D,R,D,D,D,D,D,D,D,D,D,D,D,D
+Mississippi,D,D,D,D,D,D,D,D,D,D,D,D,D,D,SR,D,D,I,R,AI,R,D,R,R,R,R,R,R,R,R,R,R,R
+Missouri,D,D,D,R,R,D,D,R,R,R,D,D,D,D,D,R,D,D,D,R,R,D,R,R,R,D,D,R,R,R,R,R,R
+Montana,R,D,D,R,R,D,D,R,R,R,D,D,D,D,D,R,R,R,D,R,R,R,R,R,R,D,R,R,R,R,R,R,R
+Nebraska,R,D,R,R,D,D,D,R,R,R,D,D,R,R,R,R,R,R,D,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+Nevada,PO,D,D,R,D,D,D,R,R,R,D,D,D,D,D,R,R,D,D,R,R,R,R,R,R,D,D,R,R,D,D,D,D
+New Hampshire,R,R,R,R,R,D,D,R,R,R,R,D,D,D,R,R,R,R,D,R,R,R,R,R,R,D,D,R,D,D,D,D,D
+New Jersey,D,R,R,R,R,D,R,R,R,R,D,D,D,D,R,R,R,D,D,R,R,R,R,R,R,D,D,D,D,D,D,D,D
+New Mexico,X,X,X,X,X,D,D,R,R,R,D,D,D,D,D,R,R,D,D,R,R,R,R,R,R,D,D,D,R,D,D,D,D
+New York,D,R,R,R,R,D,R,R,R,R,D,D,D,D,R,R,R,D,D,D,R,D,R,R,D,D,D,D,D,D,D,D,D
+North Carolina,D,D,D,D,D,D,D,D,D,R,D,D,D,D,D,D,D,D,D,R,R,D,R,R,R,R,R,R,R,D,R,R,R
+North Dakota,SP,R,R,R,R,D,D,R,R,R,D,D,R,R,R,R,R,R,D,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+Ohio,R,R,R,R,R,D,D,R,R,R,D,D,D,R,D,R,R,R,D,R,R,D,R,R,R,D,D,R,R,D,D,R,R
+Oklahoma,X,X,X,X,D,D,D,R,D,R,D,D,D,D,D,R,R,R,D,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+Oregon,R,R,R,R,R,D,R,R,R,R,D,D,D,D,R,R,R,R,D,R,R,R,R,R,D,D,D,D,D,D,D,D,D
+Pennsylvania,R,R,R,R,R,BM,R,R,R,R,R,D,D,D,R,R,R,D,D,D,R,D,R,R,R,D,D,D,D,D,D,R,D
+Rhode Island,R,R,R,R,R,D,R,R,R,D,D,D,D,D,D,R,R,D,D,D,R,D,D,R,D,D,D,D,D,D,D,D,D
+South Carolina,D,D,D,D,D,D,D,D,D,D,D,D,D,D,SR,D,D,D,R,R,R,D,R,R,R,R,R,R,R,R,R,R,R
+South Dakota,R,D,R,R,R,BM,R,R,R,R,D,D,R,R,R,R,R,R,D,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+Tennessee,D,D,D,D,D,D,D,R,D,R,D,D,D,D,D,R,R,R,D,R,R,D,R,R,R,D,D,R,R,R,R,R,R
+Texas,D,D,D,D,D,D,D,D,D,R,D,D,D,D,D,R,R,D,D,D,R,D,R,R,R,R,R,R,R,R,R,R,R
+Utah,X,D,R,R,R,R,D,R,R,R,D,D,D,D,D,R,R,R,D,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+Vermont,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,D,R,R,R,R,R,R,D,D,D,D,D,D,D,D
+Virginia,D,D,D,D,D,D,D,D,D,R,D,D,D,D,D,R,R,R,D,R,R,R,R,R,R,R,R,R,R,D,D,D,D
+Washington,R,D,R,R,R,BM,D,R,R,R,D,D,D,D,D,R,R,R,D,D,R,R,R,R,D,D,D,D,D,D,D,D,D
+West Virginia,D,R,R,R,R,D,R,R,R,R,D,D,D,D,D,D,R,D,D,D,R,D,D,R,D,D,D,R,R,R,R,R,R
+Wisconsin,D,R,R,R,R,D,R,R,PR,R,D,D,D,R,D,R,R,R,D,R,R,D,R,R,D,D,D,D,D,D,D,R,D
+Wyoming,R,D,R,R,R,D,D,R,R,R,D,D,D,R,D,R,R,R,D,R,R,R,R,R,R,R,R,R,R,R,R,R,R

@@ -1,0 +1,8648 @@
+{
+  "1892": {
+    "United States": {
+      "uspop": "62978780",
+      "uselec": "444",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "1513017",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "33426",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "88243",
+      "uselec": "0",
+      "usparty": ""
+    },
+    "Arkansas": {
+      "uspop": "1128211",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "1213398",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "413249",
+      "uselec": "4",
+      "usparty": "PO"
+    },
+    "Connecticut": {
+      "uspop": "746258",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "168493",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "230392",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "391422",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "1837353",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "0",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "88548",
+      "uselec": "3",
+      "usparty": "PO"
+    },
+    "Illinois": {
+      "uspop": "3826351",
+      "uselec": "24",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "2192404",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "Iowa": {
+      "uspop": "1912297",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1428108",
+      "uselec": "10",
+      "usparty": "PO"
+    },
+    "Kentucky": {
+      "uspop": "1858635",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "1118587",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "661086",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1042390",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "2238943",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "2093889",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "1310283",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "1289600",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "2679184",
+      "uselec": "17",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "142924",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1062656",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "47355",
+      "uselec": "3",
+      "usparty": "PO"
+    },
+    "New Hampshire": {
+      "uspop": "376530",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "1444933",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "160282",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "New York": {
+      "uspop": "6003174",
+      "uselec": "36",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "1617947",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "190983",
+      "uselec": "3",
+      "usparty": "SP"
+    },
+    "Ohio": {
+      "uspop": "3672316",
+      "uselec": "23",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "258657",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Oregon": {
+      "uspop": "317704",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "5258014",
+      "uselec": "32",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "345506",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "1151149",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "348600",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "1767518",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "2235523",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "210779",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Vermont": {
+      "uspop": "332422",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "1655980",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "357232",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "762794",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "1693330",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "60705",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1896": {
+    "United States": {
+      "uspop": "75994575",
+      "uselec": "447",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "1828697",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "32052",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "122931",
+      "uselec": "0",
+      "usparty": ""
+    },
+    "Arkansas": {
+      "uspop": "1311564",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "1485053",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "539700",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "908420",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "184735",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "278718",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "528542",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "2216331",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "154001",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "161772",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Illinois": {
+      "uspop": "4821550",
+      "uselec": "24",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "2516462",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2231853",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1470495",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Kentucky": {
+      "uspop": "2147174",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "1381625",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "694466",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1188044",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Massachusetts": {
+      "uspop": "2805346",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "2420982",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "1751394",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "1551270",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3106665",
+      "uselec": "17",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "243329",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Nebraska": {
+      "uspop": "1066300",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Nevada": {
+      "uspop": "42335",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "411588",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "1883669",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "195310",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "New York": {
+      "uspop": "7268894",
+      "uselec": "36",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "1893810",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "319146",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "4157545",
+      "uselec": "23",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "790391",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Oregon": {
+      "uspop": "413536",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "6302115",
+      "uselec": "32",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "428556",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "1340316",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "401570",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Tennessee": {
+      "uspop": "2020616",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "3048710",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "276749",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Vermont": {
+      "uspop": "343641",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "1854184",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "518103",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "958800",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "2069042",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "92531",
+      "uselec": "3",
+      "usparty": "D"
+    }
+  },
+  "1900": {
+    "United States": {
+      "uspop": "75994575",
+      "uselec": "447",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "1828697",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "32052",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "122931",
+      "uselec": "0",
+      "usparty": ""
+    },
+    "Arkansas": {
+      "uspop": "1311564",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "1485053",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "539700",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "908420",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "184735",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "278718",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "528542",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "2216331",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "154001",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "161772",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Illinois": {
+      "uspop": "4821550",
+      "uselec": "24",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "2516462",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2231853",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1470495",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "2147174",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "1381625",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "694466",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1188044",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Massachusetts": {
+      "uspop": "2805346",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "2420982",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "1751394",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "1551270",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3106665",
+      "uselec": "17",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "243329",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Nebraska": {
+      "uspop": "1066300",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "42335",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "411588",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "1883669",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "195310",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "New York": {
+      "uspop": "7268894",
+      "uselec": "36",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "1893810",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "319146",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "4157545",
+      "uselec": "23",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "790391",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Oregon": {
+      "uspop": "413536",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "6302115",
+      "uselec": "32",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "428556",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "1340316",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "401570",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "2020616",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "3048710",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "276749",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "343641",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "1854184",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "518103",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "958800",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "2069042",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "92531",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1904": {
+    "United States": {
+      "uspop": "75994575",
+      "uselec": "476",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "1828697",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "32052",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "122931",
+      "uselec": "0",
+      "usparty": ""
+    },
+    "Arkansas": {
+      "uspop": "1311564",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "1485053",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "539700",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "908420",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "184735",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "278718",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "528542",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "2216331",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "154001",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "161772",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "4821550",
+      "uselec": "27",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "2516462",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2231853",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1470495",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "2147174",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "1381625",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "694466",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1188044",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "2805346",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "2420982",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "1751394",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "1551270",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3106665",
+      "uselec": "18",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "243329",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1066300",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "42335",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "411588",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "1883669",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "195310",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "New York": {
+      "uspop": "7268894",
+      "uselec": "39",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "1893810",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "319146",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "4157545",
+      "uselec": "23",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "790391",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Oregon": {
+      "uspop": "413536",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "6302115",
+      "uselec": "34",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "428556",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "1340316",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "401570",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "2020616",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "3048710",
+      "uselec": "18",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "276749",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "343641",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "1854184",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "518103",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "958800",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "2069042",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "92531",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1908": {
+    "United States": {
+      "uspop": "91972266",
+      "uselec": "483",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "2138093",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "64356",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "204354",
+      "uselec": "0",
+      "usparty": ""
+    },
+    "Arkansas": {
+      "uspop": "1574449",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "2377549",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "799024",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "1114756",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "202322",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "331069",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "752619",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "2609121",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "191909",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "325594",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "5638591",
+      "uselec": "27",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "2700876",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2224771",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1690949",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "2289905",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "1656388",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "742371",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1295346",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "3366416",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "2810173",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "2075708",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "1797114",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3293335",
+      "uselec": "18",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "376053",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1192214",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Nevada": {
+      "uspop": "81875",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "430572",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "2537167",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "327301",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "New York": {
+      "uspop": "9113614",
+      "uselec": "39",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "2206287",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "577056",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "4767121",
+      "uselec": "23",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "1657155",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Oregon": {
+      "uspop": "672765",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "7665111",
+      "uselec": "34",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "542610",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "1515400",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "583888",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "2184789",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "3896542",
+      "uselec": "18",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "373351",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "355956",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "2061612",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "1141990",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "1221119",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "2333860",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "145965",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1912": {
+    "United States": {
+      "uspop": "91972266",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "2138093",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "64356",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "204354",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Arkansas": {
+      "uspop": "1574449",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "2377549",
+      "uselec": "13",
+      "usparty": "BM"
+    },
+    "Colorado": {
+      "uspop": "799024",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "1114756",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "202322",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "331069",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "752619",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "2609121",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "191909",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "325594",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Illinois": {
+      "uspop": "5638591",
+      "uselec": "29",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "2700876",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "Iowa": {
+      "uspop": "2224771",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Kansas": {
+      "uspop": "1690949",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Kentucky": {
+      "uspop": "2289905",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "1656388",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "742371",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Maryland": {
+      "uspop": "1295346",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "3366416",
+      "uselec": "18",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "2810173",
+      "uselec": "15",
+      "usparty": "BM"
+    },
+    "Minnesota": {
+      "uspop": "2075708",
+      "uselec": "12",
+      "usparty": "BM"
+    },
+    "Mississippi": {
+      "uspop": "1797114",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3293335",
+      "uselec": "18",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "376053",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Nebraska": {
+      "uspop": "1192214",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Nevada": {
+      "uspop": "81875",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "430572",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "2537167",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "327301",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "9113614",
+      "uselec": "45",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "2206287",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "577056",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Ohio": {
+      "uspop": "4767121",
+      "uselec": "24",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "1657155",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Oregon": {
+      "uspop": "672765",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "7665111",
+      "uselec": "38",
+      "usparty": "BM"
+    },
+    "Rhode Island": {
+      "uspop": "542610",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "1515400",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "583888",
+      "uselec": "5",
+      "usparty": "BM"
+    },
+    "Tennessee": {
+      "uspop": "2184789",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "3896542",
+      "uselec": "20",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "373351",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "355956",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "2061612",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "1141990",
+      "uselec": "7",
+      "usparty": "BM"
+    },
+    "West Virginia": {
+      "uspop": "1221119",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "2333860",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "145965",
+      "uselec": "3",
+      "usparty": "D"
+    }
+  },
+  "1916": {
+    "United States": {
+      "uspop": "105710620",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "2348174",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "55036",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "334162",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Arkansas": {
+      "uspop": "1752204",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "3426861",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "939629",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "1380631",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "223003",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "437571",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "968470",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "2895832",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "255912",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "431866",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Illinois": {
+      "uspop": "6485280",
+      "uselec": "29",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "2930390",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2404021",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1769257",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Kentucky": {
+      "uspop": "2416630",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "1798509",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "768014",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1449661",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "3852356",
+      "uselec": "18",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "3668412",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "2387125",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "1790618",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3404055",
+      "uselec": "18",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "548889",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Nebraska": {
+      "uspop": "1296372",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Nevada": {
+      "uspop": "77407",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "443083",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "3155900",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "360350",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "10385227",
+      "uselec": "45",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "2559123",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "646872",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Ohio": {
+      "uspop": "5759394",
+      "uselec": "24",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "2028283",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Oregon": {
+      "uspop": "783389",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "8720017",
+      "uselec": "38",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "604397",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "1683724",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "636547",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "2337885",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "4663228",
+      "uselec": "20",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "449396",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Vermont": {
+      "uspop": "352428",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "2309187",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "1356621",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1463701",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "2632067",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "194402",
+      "uselec": "3",
+      "usparty": "D"
+    }
+  },
+  "1920": {
+    "United States": {
+      "uspop": "105710620",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "2348174",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "55036",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "334162",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "1752204",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "3426861",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "939629",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "1380631",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "223003",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "437571",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "968470",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "2895832",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "255912",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "431866",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "6485280",
+      "uselec": "29",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "2930390",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2404021",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1769257",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "2416630",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "1798509",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "768014",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1449661",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Massachusetts": {
+      "uspop": "3852356",
+      "uselec": "18",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "3668412",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "2387125",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "1790618",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3404055",
+      "uselec": "18",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "548889",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1296372",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "77407",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "443083",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "3155900",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "360350",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "10385227",
+      "uselec": "45",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "2559123",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "646872",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "5759394",
+      "uselec": "24",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "2028283",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "783389",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "8720017",
+      "uselec": "38",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "604397",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "1683724",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "636547",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "2337885",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "4663228",
+      "uselec": "20",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "449396",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "352428",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "2309187",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "1356621",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "1463701",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "2632067",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "194402",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1924": {
+    "United States": {
+      "uspop": "105710620",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "2348174",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "55036",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "334162",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "1752204",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "3426861",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "939629",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "1380631",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "223003",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "437571",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "968470",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "2895832",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "255912",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "431866",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "6485280",
+      "uselec": "29",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "2930390",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2404021",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1769257",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "2416630",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "1798509",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "768014",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1449661",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Massachusetts": {
+      "uspop": "3852356",
+      "uselec": "18",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "3668412",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "2387125",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "1790618",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3404055",
+      "uselec": "18",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "548889",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1296372",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "77407",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "443083",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "3155900",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "360350",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "10385227",
+      "uselec": "45",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "2559123",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "646872",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "5759394",
+      "uselec": "24",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "2028283",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Oregon": {
+      "uspop": "783389",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "8720017",
+      "uselec": "38",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "604397",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "1683724",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "636547",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "2337885",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "4663228",
+      "uselec": "20",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "449396",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "352428",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "2309187",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "1356621",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "1463701",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "2632067",
+      "uselec": "13",
+      "usparty": "PR"
+    },
+    "Wyoming": {
+      "uspop": "194402",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1928": {
+    "United States": {
+      "uspop": "122775046",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "2646248",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "59278",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "435573",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "1854482",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "5677251",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "1035791",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "1606903",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "238380",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "486869",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "1468211",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "2908506",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "368336",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "445032",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "7630654",
+      "uselec": "29",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "3238503",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2470939",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1880999",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "2614589",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "2101593",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "797423",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1631526",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Massachusetts": {
+      "uspop": "4249614",
+      "uselec": "18",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "4842325",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "2563953",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "2009821",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3629367",
+      "uselec": "18",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "537606",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1377963",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "91058",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "465293",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "4041334",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "423317",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "12588066",
+      "uselec": "45",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "3170276",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "680845",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "6646697",
+      "uselec": "24",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "2396040",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "953786",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "9631350",
+      "uselec": "38",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "687497",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "1738765",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "692849",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "2616556",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "5824715",
+      "uselec": "20",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "507847",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "359611",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "2421851",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "1563396",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "1729205",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "2939006",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "225565",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1932": {
+    "United States": {
+      "uspop": "122775046",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "2646248",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "59278",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "435573",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Arkansas": {
+      "uspop": "1854482",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "5677251",
+      "uselec": "22",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "1035791",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "1606903",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "238380",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "486869",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "1468211",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "2908506",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "368336",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "445032",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Illinois": {
+      "uspop": "7630654",
+      "uselec": "29",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "3238503",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Iowa": {
+      "uspop": "2470939",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Kansas": {
+      "uspop": "1880999",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Kentucky": {
+      "uspop": "2614589",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "2101593",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "797423",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1631526",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "4249614",
+      "uselec": "17",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "4842325",
+      "uselec": "19",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "2563953",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2009821",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3629367",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "537606",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Nebraska": {
+      "uspop": "1377963",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Nevada": {
+      "uspop": "91058",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "465293",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "4041334",
+      "uselec": "16",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "423317",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "12588066",
+      "uselec": "47",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "3170276",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "680845",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Ohio": {
+      "uspop": "6646697",
+      "uselec": "26",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "2396040",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Oregon": {
+      "uspop": "953786",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "9631350",
+      "uselec": "36",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "687497",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "1738765",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "692849",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Tennessee": {
+      "uspop": "2616556",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "5824715",
+      "uselec": "23",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "507847",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Vermont": {
+      "uspop": "359611",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "2421851",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "1563396",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1729205",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "2939006",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "225565",
+      "uselec": "3",
+      "usparty": "D"
+    }
+  },
+  "1936": {
+    "United States": {
+      "uspop": "131669275",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "2832961",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "72524",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "499261",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Arkansas": {
+      "uspop": "1949387",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "6907387",
+      "uselec": "22",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "1123296",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "1709242",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "266505",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "663091",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "1897414",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "3123723",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "423330",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "524873",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Illinois": {
+      "uspop": "7897241",
+      "uselec": "29",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "3427796",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Iowa": {
+      "uspop": "2538268",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Kansas": {
+      "uspop": "1801028",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Kentucky": {
+      "uspop": "2845627",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "2363880",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "847226",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1821244",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "4316721",
+      "uselec": "17",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "5256106",
+      "uselec": "19",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "2792300",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2183796",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3784664",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "559456",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Nebraska": {
+      "uspop": "1315834",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Nevada": {
+      "uspop": "110247",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "491524",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "4160165",
+      "uselec": "16",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "531818",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "13479142",
+      "uselec": "47",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "3571623",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "641935",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Ohio": {
+      "uspop": "6907612",
+      "uselec": "26",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "2336434",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Oregon": {
+      "uspop": "1089684",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "9900180",
+      "uselec": "36",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "713346",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "1899804",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "642961",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Tennessee": {
+      "uspop": "2915841",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "6414824",
+      "uselec": "23",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "550310",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Vermont": {
+      "uspop": "359231",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "2677773",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "1736191",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1901974",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "3137587",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "250742",
+      "uselec": "3",
+      "usparty": "D"
+    }
+  },
+  "1940": {
+    "United States": {
+      "uspop": "131669275",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "2832961",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "72524",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "499261",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Arkansas": {
+      "uspop": "1949387",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "6907387",
+      "uselec": "22",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "1123296",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "1709242",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "266505",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "663091",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "1897414",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "3123723",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "423330",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "524873",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Illinois": {
+      "uspop": "7897241",
+      "uselec": "29",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "3427796",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2538268",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1801028",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "2845627",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "2363880",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "847226",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1821244",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "4316721",
+      "uselec": "17",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "5256106",
+      "uselec": "19",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "2792300",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2183796",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3784664",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "559456",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Nebraska": {
+      "uspop": "1315834",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "110247",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "491524",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "4160165",
+      "uselec": "16",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "531818",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "13479142",
+      "uselec": "47",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "3571623",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "641935",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "6907612",
+      "uselec": "26",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "2336434",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Oregon": {
+      "uspop": "1089684",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "9900180",
+      "uselec": "36",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "713346",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "1899804",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "642961",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "2915841",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "6414824",
+      "uselec": "23",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "550310",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Vermont": {
+      "uspop": "359231",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "2677773",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "1736191",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1901974",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "3137587",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "250742",
+      "uselec": "3",
+      "usparty": "D"
+    }
+  },
+  "1944": {
+    "United States": {
+      "uspop": "131669275",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "2832961",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "72524",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "499261",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Arkansas": {
+      "uspop": "1949387",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "6907387",
+      "uselec": "25",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "1123296",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "1709242",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "266505",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "663091",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "1897414",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "3123723",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "423330",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "524873",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Illinois": {
+      "uspop": "7897241",
+      "uselec": "28",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "3427796",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2538268",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1801028",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "2845627",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "2363880",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "847226",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "1821244",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "4316721",
+      "uselec": "16",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "5256106",
+      "uselec": "19",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "2792300",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2183796",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3784664",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "559456",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Nebraska": {
+      "uspop": "1315834",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "110247",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "491524",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "4160165",
+      "uselec": "16",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "531818",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "13479142",
+      "uselec": "47",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "3571623",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "641935",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "6907612",
+      "uselec": "25",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "2336434",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Oregon": {
+      "uspop": "1089684",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "9900180",
+      "uselec": "35",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "713346",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "1899804",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "642961",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "2915841",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "6414824",
+      "uselec": "23",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "550310",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Vermont": {
+      "uspop": "359231",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "2677773",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "1736191",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1901974",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "3137587",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "250742",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1948": {
+    "United States": {
+      "uspop": "150697361",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "3061743",
+      "uselec": "11",
+      "usparty": "SR"
+    },
+    "Alaska": {
+      "uspop": "128643",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "749587",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Arkansas": {
+      "uspop": "1909511",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "10586223",
+      "uselec": "25",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "1325089",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "2007280",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "318085",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "802178",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "2771305",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "3444578",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "499794",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "588637",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Illinois": {
+      "uspop": "8712176",
+      "uselec": "28",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "3934224",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2621073",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Kansas": {
+      "uspop": "1905299",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "2944806",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "2683516",
+      "uselec": "10",
+      "usparty": "SR"
+    },
+    "Maine": {
+      "uspop": "913774",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "2343001",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Massachusetts": {
+      "uspop": "4690514",
+      "uselec": "16",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "6371766",
+      "uselec": "19",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "2982483",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2178914",
+      "uselec": "9",
+      "usparty": "SR"
+    },
+    "Missouri": {
+      "uspop": "3954653",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "591024",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Nebraska": {
+      "uspop": "1325510",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "160083",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "533242",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "4835329",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "681187",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "14830192",
+      "uselec": "47",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "4061929",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "619636",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "7946627",
+      "uselec": "25",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "2233351",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Oregon": {
+      "uspop": "1521341",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "10498012",
+      "uselec": "35",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "791896",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "2117027",
+      "uselec": "8",
+      "usparty": "SR"
+    },
+    "South Dakota": {
+      "uspop": "652740",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "3291718",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "7711194",
+      "uselec": "23",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "688862",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Vermont": {
+      "uspop": "377747",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "3318680",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "2378963",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "2005552",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "3434575",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "290529",
+      "uselec": "3",
+      "usparty": "D"
+    }
+  },
+  "1952": {
+    "United States": {
+      "uspop": "150697361",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "3061743",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "128643",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "749587",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "1909511",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "10586223",
+      "uselec": "32",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "1325089",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "2007280",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "318085",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "802178",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "2771305",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "3444578",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "499794",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "588637",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "8712176",
+      "uselec": "27",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "3934224",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2621073",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "1905299",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "2944806",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "2683516",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "913774",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "2343001",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Massachusetts": {
+      "uspop": "4690514",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "6371766",
+      "uselec": "20",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "2982483",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "2178914",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "3954653",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "591024",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1325510",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "160083",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "533242",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "4835329",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "681187",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "14830192",
+      "uselec": "45",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "4061929",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "619636",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "7946627",
+      "uselec": "25",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "2233351",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "1521341",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "10498012",
+      "uselec": "32",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "791896",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "2117027",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "652740",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "3291718",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "7711194",
+      "uselec": "24",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "688862",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "377747",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "3318680",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "2378963",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "2005552",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "3434575",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "290529",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1956": {
+    "United States": {
+      "uspop": "179323175",
+      "uselec": "531",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "3266740",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "226167",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "1302161",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "1786272",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "15717204",
+      "uselec": "32",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "1753947",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "2535234",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "446292",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "763956",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "4951560",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "3943116",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "632772",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Idaho": {
+      "uspop": "667191",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "10081158",
+      "uselec": "27",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "4662498",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2757537",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "2178611",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "3038156",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "3257022",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "969265",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "3100689",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Massachusetts": {
+      "uspop": "5148578",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "7823194",
+      "uselec": "20",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "3413864",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "2178141",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "4319813",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "674767",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1411330",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "285278",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "606921",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "6066782",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "951023",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "16782304",
+      "uselec": "45",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "4556155",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "632446",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "9706397",
+      "uselec": "25",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "2328284",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "1768687",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "11319366",
+      "uselec": "32",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "859488",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "2382594",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "680514",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "3567089",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "9579677",
+      "uselec": "24",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "890627",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "389881",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "3966949",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "2853214",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "1860421",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "3951777",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "330066",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1960": {
+    "United States": {
+      "uspop": "179323175",
+      "uselec": "537",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "3266740",
+      "uselec": "11",
+      "usparty": "I"
+    },
+    "Alaska": {
+      "uspop": "226167",
+      "uselec": "3",
+      "usparty": "X"
+    },
+    "Arizona": {
+      "uspop": "1302161",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "1786272",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "15717204",
+      "uselec": "32",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "1753947",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "2535234",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "446292",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "763956",
+      "uselec": "0",
+      "usparty": "X"
+    },
+    "Florida": {
+      "uspop": "4951560",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "3943116",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "632772",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "667191",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "10081158",
+      "uselec": "27",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "4662498",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2757537",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "2178611",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "3038156",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "3257022",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "969265",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "3100689",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "5148578",
+      "uselec": "16",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "7823194",
+      "uselec": "20",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "3413864",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2178141",
+      "uselec": "8",
+      "usparty": "I"
+    },
+    "Missouri": {
+      "uspop": "4319813",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "674767",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1411330",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "285278",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "606921",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "6066782",
+      "uselec": "16",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "951023",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "16782304",
+      "uselec": "45",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "4556155",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "632446",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "9706397",
+      "uselec": "25",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "2328284",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "1768687",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "11319366",
+      "uselec": "32",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "859488",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "2382594",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "680514",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "3567089",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "9579677",
+      "uselec": "24",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "890627",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "389881",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "3966949",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "2853214",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "1860421",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "3951777",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "330066",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1964": {
+    "United States": {
+      "uspop": "179323175",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "3266740",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "226167",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Arizona": {
+      "uspop": "1302161",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "1786272",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "15717204",
+      "uselec": "40",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "1753947",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "2535234",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "446292",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "763956",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "4951560",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "3943116",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Hawaii": {
+      "uspop": "632772",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "667191",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Illinois": {
+      "uspop": "10081158",
+      "uselec": "26",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "4662498",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Iowa": {
+      "uspop": "2757537",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Kansas": {
+      "uspop": "2178611",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Kentucky": {
+      "uspop": "3038156",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "3257022",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "969265",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Maryland": {
+      "uspop": "3100689",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "5148578",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "7823194",
+      "uselec": "21",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "3413864",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2178141",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "4319813",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "674767",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Nebraska": {
+      "uspop": "1411330",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Nevada": {
+      "uspop": "285278",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "606921",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "6066782",
+      "uselec": "17",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "951023",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "16782304",
+      "uselec": "43",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "4556155",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "632446",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Ohio": {
+      "uspop": "9706397",
+      "uselec": "26",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "2328284",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Oregon": {
+      "uspop": "1768687",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "11319366",
+      "uselec": "29",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "859488",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "2382594",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "680514",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Tennessee": {
+      "uspop": "3567089",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "9579677",
+      "uselec": "25",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "890627",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Vermont": {
+      "uspop": "389881",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Virginia": {
+      "uspop": "3966949",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "2853214",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1860421",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "3951777",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "330066",
+      "uselec": "3",
+      "usparty": "D"
+    }
+  },
+  "1968": {
+    "United States": {
+      "uspop": "203211926",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "3444165",
+      "uselec": "10",
+      "usparty": "AI"
+    },
+    "Alaska": {
+      "uspop": "300382",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "1770900",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "1923295",
+      "uselec": "6",
+      "usparty": "AI"
+    },
+    "California": {
+      "uspop": "19953134",
+      "uselec": "40",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "2207259",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "3031709",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "548104",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "756510",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "6789443",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "4589575",
+      "uselec": "12",
+      "usparty": "AI"
+    },
+    "Hawaii": {
+      "uspop": "768561",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "712567",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "11113976",
+      "uselec": "26",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "5193669",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2824376",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "2246578",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "3218706",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "3641306",
+      "uselec": "10",
+      "usparty": "AI"
+    },
+    "Maine": {
+      "uspop": "992048",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Maryland": {
+      "uspop": "3922399",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "5689170",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "8875083",
+      "uselec": "21",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "3804971",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2216912",
+      "uselec": "7",
+      "usparty": "AI"
+    },
+    "Missouri": {
+      "uspop": "4676501",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "694409",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1483493",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "488738",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "737681",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "7168164",
+      "uselec": "17",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "1016000",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "18236967",
+      "uselec": "43",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "5082059",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "617761",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "10652017",
+      "uselec": "26",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "2559229",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "2091385",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "11793909",
+      "uselec": "29",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "946725",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "2590516",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "665507",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "3923687",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "11196730",
+      "uselec": "25",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "1059273",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "444330",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "4648494",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "3409169",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1744237",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "4417731",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "332416",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1972": {
+    "United States": {
+      "uspop": "203211926",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "3444165",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "300382",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "1770900",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "1923295",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "California": {
+      "uspop": "19953134",
+      "uselec": "45",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "2207259",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "3031709",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "548104",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "756510",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "6789443",
+      "uselec": "17",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "4589575",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Hawaii": {
+      "uspop": "768561",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Idaho": {
+      "uspop": "712567",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "11113976",
+      "uselec": "26",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "5193669",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2824376",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "2246578",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "3218706",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "3641306",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "992048",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "3922399",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Massachusetts": {
+      "uspop": "5689170",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "8875083",
+      "uselec": "21",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "3804971",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Mississippi": {
+      "uspop": "2216912",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "4676501",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "694409",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1483493",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "488738",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "737681",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "7168164",
+      "uselec": "17",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "1016000",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "18236967",
+      "uselec": "41",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "5082059",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "617761",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "10652017",
+      "uselec": "25",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "2559229",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "2091385",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "11793909",
+      "uselec": "27",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "946725",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "2590516",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "665507",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "3923687",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "11196730",
+      "uselec": "26",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "1059273",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "444330",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "4648494",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "3409169",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "1744237",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "4417731",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "332416",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1976": {
+    "United States": {
+      "uspop": "226545805",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "3893888",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Alaska": {
+      "uspop": "401851",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "2718215",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "2286435",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "23667902",
+      "uselec": "45",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "2889964",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "3107576",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "594338",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "638333",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "9746324",
+      "uselec": "17",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "5463105",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "964691",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "943935",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "11426518",
+      "uselec": "26",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "5490224",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2913808",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "2363679",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "3660777",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "4205900",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "1124660",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "4216975",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "5737037",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "9262078",
+      "uselec": "21",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "4075970",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2520638",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Missouri": {
+      "uspop": "4916686",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "786690",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1569825",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "800493",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "920610",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "7364823",
+      "uselec": "17",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "1302894",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "17558072",
+      "uselec": "41",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "5881766",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "652717",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "10797630",
+      "uselec": "25",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "3025290",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "2633105",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "11863895",
+      "uselec": "27",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "947154",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "3121820",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "South Dakota": {
+      "uspop": "690768",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "4591120",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "14229191",
+      "uselec": "26",
+      "usparty": "D"
+    },
+    "Utah": {
+      "uspop": "1461037",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "511456",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "5346818",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "4132156",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "1949644",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "4705767",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "469557",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1980": {
+    "United States": {
+      "uspop": "226545805",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "3893888",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "401851",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "2718215",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "2286435",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "California": {
+      "uspop": "23667902",
+      "uselec": "45",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "2889964",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "3107576",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "594338",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "638333",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "9746324",
+      "uselec": "17",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "5463105",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "964691",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "943935",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "11426518",
+      "uselec": "26",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "5490224",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2913808",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "2363679",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "3660777",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "4205900",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "1124660",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "4216975",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "5737037",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "9262078",
+      "uselec": "21",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "4075970",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2520638",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "4916686",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "786690",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1569825",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "800493",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "920610",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "7364823",
+      "uselec": "17",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "1302894",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "17558072",
+      "uselec": "41",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "5881766",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "652717",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "10797630",
+      "uselec": "25",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "3025290",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "2633105",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "11863895",
+      "uselec": "27",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "947154",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "3121820",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "690768",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "4591120",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "14229191",
+      "uselec": "26",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "1461037",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "511456",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "5346818",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "4132156",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "1949644",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "4705767",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "469557",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1984": {
+    "United States": {
+      "uspop": "226545805",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "3893888",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "401851",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "2718215",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "2286435",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "California": {
+      "uspop": "23667902",
+      "uselec": "47",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "2889964",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "3107576",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "594338",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "638333",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "9746324",
+      "uselec": "21",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "5463105",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Hawaii": {
+      "uspop": "964691",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Idaho": {
+      "uspop": "943935",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "11426518",
+      "uselec": "24",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "5490224",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2913808",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "2363679",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "3660777",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "4205900",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "1124660",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "4216975",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Massachusetts": {
+      "uspop": "5737037",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Michigan": {
+      "uspop": "9262078",
+      "uselec": "20",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "4075970",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2520638",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "4916686",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "786690",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1569825",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "800493",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "920610",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "7364823",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "1302894",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "17558072",
+      "uselec": "36",
+      "usparty": "R"
+    },
+    "North Carolina": {
+      "uspop": "5881766",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "652717",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "10797630",
+      "uselec": "23",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "3025290",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "2633105",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Pennsylvania": {
+      "uspop": "11863895",
+      "uselec": "25",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "947154",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "South Carolina": {
+      "uspop": "3121820",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "690768",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "4591120",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "14229191",
+      "uselec": "29",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "1461037",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "511456",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "5346818",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "4132156",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "West Virginia": {
+      "uspop": "1949644",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "4705767",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "469557",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1988": {
+    "United States": {
+      "uspop": "248709873",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "4040587",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "550043",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "3665228",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "2350725",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "California": {
+      "uspop": "29760021",
+      "uselec": "47",
+      "usparty": "R"
+    },
+    "Colorado": {
+      "uspop": "3294394",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "3287116",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Delaware": {
+      "uspop": "666168",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "District of Columbia": {
+      "uspop": "606900",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "12937926",
+      "uselec": "21",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "6478216",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Hawaii": {
+      "uspop": "1108229",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "1006749",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "11430602",
+      "uselec": "24",
+      "usparty": "R"
+    },
+    "Indiana": {
+      "uspop": "5544159",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2776755",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Kansas": {
+      "uspop": "2477574",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "3685296",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "4219973",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "1227928",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Maryland": {
+      "uspop": "4781468",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Massachusetts": {
+      "uspop": "6016425",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "9295297",
+      "uselec": "20",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "4375099",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2573216",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "5117073",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "799065",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1578385",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "1201833",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "1109252",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "7730188",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "New Mexico": {
+      "uspop": "1515069",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "17990455",
+      "uselec": "36",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "6628637",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "638800",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "10847115",
+      "uselec": "23",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "3145585",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "2842321",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "11881643",
+      "uselec": "25",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "1003464",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "3486703",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "696004",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "4877185",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "16986510",
+      "uselec": "29",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "1722850",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "562758",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Virginia": {
+      "uspop": "6187358",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "4866692",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1793477",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "4891769",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "453588",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1992": {
+    "United States": {
+      "uspop": "248709873",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "4040587",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "550043",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "3665228",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "2350725",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "29760021",
+      "uselec": "54",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "3294394",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "3287116",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "666168",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "606900",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "12937926",
+      "uselec": "25",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "6478216",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "1108229",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "1006749",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "11430602",
+      "uselec": "22",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "5544159",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2776755",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Kansas": {
+      "uspop": "2477574",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "3685296",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "4219973",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "1227928",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Maryland": {
+      "uspop": "4781468",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "6016425",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "9295297",
+      "uselec": "18",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "4375099",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2573216",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "5117073",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "799065",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Nebraska": {
+      "uspop": "1578385",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "1201833",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "1109252",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "7730188",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "1515069",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "17990455",
+      "uselec": "33",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "6628637",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "638800",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "10847115",
+      "uselec": "21",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "3145585",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "2842321",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "11881643",
+      "uselec": "23",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "1003464",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "3486703",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "696004",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "4877185",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "16986510",
+      "uselec": "32",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "1722850",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "562758",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Virginia": {
+      "uspop": "6187358",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "4866692",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1793477",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "4891769",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "453588",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "1996": {
+    "United States": {
+      "uspop": "281421906",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "4447100",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "626932",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "5130632",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Arkansas": {
+      "uspop": "2673400",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "California": {
+      "uspop": "33871648",
+      "uselec": "54",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "4301261",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "3405565",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "783600",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "572059",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "15982378",
+      "uselec": "25",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "8186453",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Hawaii": {
+      "uspop": "1211537",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "1293953",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "12419293",
+      "uselec": "22",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "6080485",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2926324",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Kansas": {
+      "uspop": "2688418",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "4041769",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Louisiana": {
+      "uspop": "4468976",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Maine": {
+      "uspop": "1274923",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Maryland": {
+      "uspop": "5296486",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "6349097",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "9938444",
+      "uselec": "18",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "4919479",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2844658",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "5595211",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Montana": {
+      "uspop": "902195",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1711263",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "1998257",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "1235786",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "8414350",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "1819046",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "18976457",
+      "uselec": "33",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "8049313",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "642200",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "11353140",
+      "uselec": "21",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "3450654",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "3421399",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "12281054",
+      "uselec": "23",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "1048319",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "4012012",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "754844",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "5689283",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Texas": {
+      "uspop": "20851820",
+      "uselec": "32",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "2233169",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "608827",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Virginia": {
+      "uspop": "7078515",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "5894121",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1808344",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "Wisconsin": {
+      "uspop": "5363675",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "493782",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "2000": {
+    "United States": {
+      "uspop": "281421906",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "4447100",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "626932",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "5130632",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "2673400",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "California": {
+      "uspop": "33871648",
+      "uselec": "54",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "4301261",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "3405565",
+      "uselec": "8",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "783600",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "572059",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "15982378",
+      "uselec": "25",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "8186453",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Hawaii": {
+      "uspop": "1211537",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "1293953",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "12419293",
+      "uselec": "22",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "6080485",
+      "uselec": "12",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2926324",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Kansas": {
+      "uspop": "2688418",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "4041769",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "4468976",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "1274923",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Maryland": {
+      "uspop": "5296486",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "6349097",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "9938444",
+      "uselec": "18",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "4919479",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2844658",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "5595211",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "902195",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1711263",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "1998257",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "1235786",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "New Jersey": {
+      "uspop": "8414350",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "1819046",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "18976457",
+      "uselec": "33",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "8049313",
+      "uselec": "14",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "642200",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "11353140",
+      "uselec": "21",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "3450654",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "3421399",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "12281054",
+      "uselec": "23",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "1048319",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "4012012",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "754844",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "5689283",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "20851820",
+      "uselec": "32",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "2233169",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "608827",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Virginia": {
+      "uspop": "7078515",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "5894121",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1808344",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "5363675",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "493782",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "2004": {
+    "United States": {
+      "uspop": "281421906",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "4447100",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "626932",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "5130632",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "2673400",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "California": {
+      "uspop": "33871648",
+      "uselec": "55",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "4301261",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Connecticut": {
+      "uspop": "3405565",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "783600",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "572059",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "15982378",
+      "uselec": "27",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "8186453",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Hawaii": {
+      "uspop": "1211537",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "1293953",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "12419293",
+      "uselec": "21",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "6080485",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "2926324",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "2688418",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "4041769",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "4468976",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "1274923",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Maryland": {
+      "uspop": "5296486",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "6349097",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "9938444",
+      "uselec": "17",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "4919479",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2844658",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "5595211",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "902195",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1711263",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "1998257",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "New Hampshire": {
+      "uspop": "1235786",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "8414350",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "1819046",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "New York": {
+      "uspop": "18976457",
+      "uselec": "31",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "8049313",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "642200",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "11353140",
+      "uselec": "20",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "3450654",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "3421399",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "12281054",
+      "uselec": "21",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "1048319",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "4012012",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "754844",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "5689283",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "20851820",
+      "uselec": "34",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "2233169",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "608827",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Virginia": {
+      "uspop": "7078515",
+      "uselec": "13",
+      "usparty": "R"
+    },
+    "Washington": {
+      "uspop": "5894121",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1808344",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "5363675",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "493782",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "2008": {
+    "United States": {
+      "uspop": "308745538",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "4779736",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "710231",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "6392017",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "2915918",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "California": {
+      "uspop": "37253956",
+      "uselec": "55",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "5029196",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "3574097",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "897934",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "601723",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "18801310",
+      "uselec": "27",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "9687653",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "Hawaii": {
+      "uspop": "1360301",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "1567582",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "12830632",
+      "uselec": "21",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "6483802",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Iowa": {
+      "uspop": "3046355",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Kansas": {
+      "uspop": "2853118",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "4339367",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "4533372",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "1328361",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Maryland": {
+      "uspop": "5773552",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "6547629",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "9883640",
+      "uselec": "17",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "5303925",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2967297",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "5988927",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "989415",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1826341",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "2700551",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "1316470",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "8791894",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "2059179",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "19378102",
+      "uselec": "31",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "9535483",
+      "uselec": "15",
+      "usparty": "D"
+    },
+    "North Dakota": {
+      "uspop": "672591",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "11536504",
+      "uselec": "20",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "3751351",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "3831074",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "12702379",
+      "uselec": "21",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "1052567",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "4625364",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "814180",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "6346105",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "25145561",
+      "uselec": "34",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "2763885",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "625741",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Virginia": {
+      "uspop": "8001024",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "6724540",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1852994",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "5686986",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "563626",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "2012": {
+    "United States": {
+      "uspop": "308745538",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "4779736",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "710231",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "6392017",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "2915918",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "California": {
+      "uspop": "37253956",
+      "uselec": "55",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "5029196",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "3574097",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "897934",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "601723",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "18801310",
+      "uselec": "29",
+      "usparty": "D"
+    },
+    "Georgia": {
+      "uspop": "9687653",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "Hawaii": {
+      "uspop": "1360301",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "1567582",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "12830632",
+      "uselec": "20",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "6483802",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "3046355",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "Kansas": {
+      "uspop": "2853118",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "4339367",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "4533372",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "1328361",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Maryland": {
+      "uspop": "5773552",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "6547629",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "9883640",
+      "uselec": "16",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "5303925",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2967297",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "5988927",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "989415",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1826341",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "2700551",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "1316470",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "8791894",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "2059179",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "19378102",
+      "uselec": "29",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "9535483",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "672591",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "11536504",
+      "uselec": "18",
+      "usparty": "D"
+    },
+    "Oklahoma": {
+      "uspop": "3751351",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "3831074",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "12702379",
+      "uselec": "20",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "1052567",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "4625364",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "814180",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "6346105",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "25145561",
+      "uselec": "38",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "2763885",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "625741",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Virginia": {
+      "uspop": "8001024",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "6724540",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1852994",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "5686986",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "563626",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "2016": {
+    "United States": {
+      "uspop": "325386357",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "4903185",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "731545",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "7278717",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Arkansas": {
+      "uspop": "3017825",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "California": {
+      "uspop": "39512223",
+      "uselec": "55",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "5758736",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "3565287",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "973764",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "705749",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "21477737",
+      "uselec": "29",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "10617423",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "Hawaii": {
+      "uspop": "1415872",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "1787065",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "12671821",
+      "uselec": "20",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "6732219",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "3155070",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "2913314",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "4467673",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "4648794",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "1344212",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Maryland": {
+      "uspop": "6045680",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "6949503",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "9986857",
+      "uselec": "16",
+      "usparty": "R"
+    },
+    "Minnesota": {
+      "uspop": "5639632",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2976149",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "6137428",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "1068778",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1934408",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "3080156",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "1359711",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "8882190",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "2096829",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "19453561",
+      "uselec": "29",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "10488084",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "762062",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "11689100",
+      "uselec": "18",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "3956971",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "4217737",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "12801989",
+      "uselec": "20",
+      "usparty": "R"
+    },
+    "Rhode Island": {
+      "uspop": "1059361",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "5148714",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "884659",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "6833174",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "28995881",
+      "uselec": "38",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "3205958",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "623989",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Virginia": {
+      "uspop": "8535519",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "7614893",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1792147",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "5822434",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Wyoming": {
+      "uspop": "578759",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  },
+  "2020": {
+    "United States": {
+      "uspop": "325386357",
+      "uselec": "538",
+      "usparty": "X"
+    },
+    "Alabama": {
+      "uspop": "4903185",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "Alaska": {
+      "uspop": "731545",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Arizona": {
+      "uspop": "7278717",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Arkansas": {
+      "uspop": "3017825",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "California": {
+      "uspop": "39512223",
+      "uselec": "55",
+      "usparty": "D"
+    },
+    "Colorado": {
+      "uspop": "5758736",
+      "uselec": "9",
+      "usparty": "D"
+    },
+    "Connecticut": {
+      "uspop": "3565287",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Delaware": {
+      "uspop": "973764",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "District of Columbia": {
+      "uspop": "705749",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Florida": {
+      "uspop": "21477737",
+      "uselec": "29",
+      "usparty": "R"
+    },
+    "Georgia": {
+      "uspop": "10617423",
+      "uselec": "16",
+      "usparty": "D"
+    },
+    "Hawaii": {
+      "uspop": "1415872",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Idaho": {
+      "uspop": "1787065",
+      "uselec": "4",
+      "usparty": "R"
+    },
+    "Illinois": {
+      "uspop": "12671821",
+      "uselec": "20",
+      "usparty": "D"
+    },
+    "Indiana": {
+      "uspop": "6732219",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Iowa": {
+      "uspop": "3155070",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Kansas": {
+      "uspop": "2913314",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Kentucky": {
+      "uspop": "4467673",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Louisiana": {
+      "uspop": "4648794",
+      "uselec": "8",
+      "usparty": "R"
+    },
+    "Maine": {
+      "uspop": "1344212",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "Maryland": {
+      "uspop": "6045680",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Massachusetts": {
+      "uspop": "6949503",
+      "uselec": "11",
+      "usparty": "D"
+    },
+    "Michigan": {
+      "uspop": "9986857",
+      "uselec": "16",
+      "usparty": "D"
+    },
+    "Minnesota": {
+      "uspop": "5639632",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Mississippi": {
+      "uspop": "2976149",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Missouri": {
+      "uspop": "6137428",
+      "uselec": "10",
+      "usparty": "R"
+    },
+    "Montana": {
+      "uspop": "1068778",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Nebraska": {
+      "uspop": "1934408",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Nevada": {
+      "uspop": "3080156",
+      "uselec": "6",
+      "usparty": "D"
+    },
+    "New Hampshire": {
+      "uspop": "1359711",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "New Jersey": {
+      "uspop": "8882190",
+      "uselec": "14",
+      "usparty": "D"
+    },
+    "New Mexico": {
+      "uspop": "2096829",
+      "uselec": "5",
+      "usparty": "D"
+    },
+    "New York": {
+      "uspop": "19453561",
+      "uselec": "29",
+      "usparty": "D"
+    },
+    "North Carolina": {
+      "uspop": "10488084",
+      "uselec": "15",
+      "usparty": "R"
+    },
+    "North Dakota": {
+      "uspop": "762062",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Ohio": {
+      "uspop": "11689100",
+      "uselec": "18",
+      "usparty": "R"
+    },
+    "Oklahoma": {
+      "uspop": "3956971",
+      "uselec": "7",
+      "usparty": "R"
+    },
+    "Oregon": {
+      "uspop": "4217737",
+      "uselec": "7",
+      "usparty": "D"
+    },
+    "Pennsylvania": {
+      "uspop": "12801989",
+      "uselec": "20",
+      "usparty": "D"
+    },
+    "Rhode Island": {
+      "uspop": "1059361",
+      "uselec": "4",
+      "usparty": "D"
+    },
+    "South Carolina": {
+      "uspop": "5148714",
+      "uselec": "9",
+      "usparty": "R"
+    },
+    "South Dakota": {
+      "uspop": "884659",
+      "uselec": "3",
+      "usparty": "R"
+    },
+    "Tennessee": {
+      "uspop": "6833174",
+      "uselec": "11",
+      "usparty": "R"
+    },
+    "Texas": {
+      "uspop": "28995881",
+      "uselec": "38",
+      "usparty": "R"
+    },
+    "Utah": {
+      "uspop": "3205958",
+      "uselec": "6",
+      "usparty": "R"
+    },
+    "Vermont": {
+      "uspop": "623989",
+      "uselec": "3",
+      "usparty": "D"
+    },
+    "Virginia": {
+      "uspop": "8535519",
+      "uselec": "13",
+      "usparty": "D"
+    },
+    "Washington": {
+      "uspop": "7614893",
+      "uselec": "12",
+      "usparty": "D"
+    },
+    "West Virginia": {
+      "uspop": "1792147",
+      "uselec": "5",
+      "usparty": "R"
+    },
+    "Wisconsin": {
+      "uspop": "5822434",
+      "uselec": "10",
+      "usparty": "D"
+    },
+    "Wyoming": {
+      "uspop": "578759",
+      "uselec": "3",
+      "usparty": "R"
+    }
+  }
+}
